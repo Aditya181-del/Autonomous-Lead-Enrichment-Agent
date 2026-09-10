@@ -1,0 +1,10 @@
+playwright
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+beautifulsoup4
+lxml
+openai
+pytest
+pytest-asyncio
