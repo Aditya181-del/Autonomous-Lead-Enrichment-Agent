@@ -5,6 +5,8 @@ python-dotenv
 httpx
 beautifulsoup4
 lxml
-openai
+ollama
 pytest
 pytest-asyncio
+langgraph
+streamlit
